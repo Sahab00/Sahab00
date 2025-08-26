@@ -4,8 +4,6 @@ I am a BS-AI final year student (currently in the 7th semester).
 🧠 Architect of algorithms, explorer of intelligence — I code not just to solve problems, but to understand them.  
 Passionate about building AI systems that make a real-world impact.
 
-Here are some ideas to get you started:
-
 # I’m currently working on  
 Currently, I am working on my FYP (Final Year Project). It's based on computer vision. The main concept behind my project is to protect the health of honey bees and their hive using AI technology.
 
